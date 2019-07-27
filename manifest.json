@@ -3,11 +3,11 @@
     "short_name": "笑",
     "background_color": "#fc980c",
     "icons": [{
-        "src": "./icon-256.png",
+        "src": "./momiji.png",
         "sizes": "256x256",
         "type": "image/png"
       },{
-        "src": "./icon-192.png",
+        "src": "./momiji.png",
         "sizes": "192x192",
         "type": "image/png"
       }],
