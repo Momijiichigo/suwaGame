@@ -1,0 +1,24 @@
+{
+  "name": "suwagame",
+  "version": "1.0.0",
+  "description": "ahaha",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Momijiichigo/suwaGame.git"
+  },
+  "author": "Me!!!",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Momijiichigo/suwaGame/issues"
+  },
+  "homepage": "https://github.com/Momijiichigo/suwaGame#readme"
+}
